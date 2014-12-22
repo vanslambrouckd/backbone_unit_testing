@@ -1,4 +1,4 @@
-window.Hello = function() {
+window.hello = function() {
     return 'Hello World';
 }
 
